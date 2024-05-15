@@ -1,0 +1,14 @@
+# Algoritmo: Verificador de Ano Bissexto
+# Input: um número inteiro positivo (x)
+# Output: "True" para anos bissextos ou "False" para anos que não são bissextos
+
+if x%4==0:
+    if x%100!=0:
+        print("True")
+    else:
+        if x%400==0:
+            print("True")
+        else:
+            print("False")
+else:
+    print("False")

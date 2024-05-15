@@ -16,4 +16,4 @@ r1=a1-a2-a3
 r2=a2-a3-a1
 r3=a3-a1-a2
 
-print(
+print(f"r1={r1}\nr2={r2}\nr3={r3}\nr4={r4}\nr5={r5}\nr6={r6}\nr7={r7}")

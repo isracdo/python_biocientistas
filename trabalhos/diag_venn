@@ -1,0 +1,19 @@
+### Algoritmo: construção de um Diagrama de Venn para 3 conjuntos
+### Input: três sets contendo números inteiros positivos
+### Output: 7 sets contendo valores inteiros positivos correspondentes aos elementos de cada uma das regiões do diagrama
+
+a1={2,3,4,5,6}             
+a2={1,2,4,5}
+a3={0,1,5,7,2,4}
+
+r7=a1.intersection(a2).intersection(a3)
+
+r4=a1.intersection(a2)-r7
+r5=a2.intersection(a3)-r7
+r6=a3.intersection(a1)-r7
+  
+r1=a1-a2-a3
+r2=a2-a3-a1
+r3=a3-a1-a2
+
+print(

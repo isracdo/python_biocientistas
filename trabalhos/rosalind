@@ -1,0 +1,9 @@
+# DESAFIO 2
+# Algoritmo: cálculo do quadrado da hipotenusa a partir do valor dos catetos de um triângulo retângulo
+# Input: Two positive integers a and b, each less than 1000.
+# The integer corresponding to the square of the hypotenuse of the right triangle whose legs have lengths a and b
+
+def sqhip(v1:int, v2:int):
+    return (v1**2)+(v2**2)
+
+# DESAFIO 3

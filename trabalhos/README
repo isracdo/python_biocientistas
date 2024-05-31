@@ -15,3 +15,7 @@
 # Pasta: rosalind
 # Descrição: 4º trabalho, resolução de desafios da plataforma https://rosalind.info/problems/
 # Data: 22/mai/2024
+
+# Arquivo: stats_diabetes.py
+# Descrição: 5º trabalho, identificação de um grupo de diabéticos, com diferença estatisticamente significativa na glicemia
+# Data: 31/mai/2024

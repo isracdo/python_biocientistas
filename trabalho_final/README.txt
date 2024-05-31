@@ -2,10 +2,6 @@ Esta pasta contèm os arquivos relacionados ao trabalho final da disciplina "Int
 
 
 
-O arquivo "article.pdf" é o artigo escrito para apresentar e discutir a análise realizada, redigido como parte da avaliação final
-
-
-
 A pasta "scripts" possui os arquivos de códigos
 
 - main.py: arquivo que deve ser executado para realizar toda a análise do artigo produzido. Chama as funções contidas nos demais arquivos.
@@ -38,7 +34,7 @@ A pasta "dados" contém arquivos .tsv gerados pelo script main.py
 
 
 
-A pasta "analysis" contém arquivos de imagem referentes às análises implementadas no script main.py
+A pasta "analysis" contém arquivos de imagem referentes às análises implementadas no script main.py, além do artigo produzido
 
 - boxplot_trat.svg: boxplot das somas de reads por amostra, para os três tratamentos (tabelas)
 
@@ -48,4 +44,4 @@ A pasta "analysis" contém arquivos de imagem referentes às análises implement
 
 - curva_coletor_normalizada.svg: da curva do coletor para a tabela normalizada por TSS (gerada pela função plot_collector(collector_tss, "normalizada"))
 
-
+- article.pdf: artigo escrito para contextualizar, apresentar e discutir a análise realizada, redigido como parte da avaliação final

@@ -2,6 +2,10 @@ Esta pasta contèm os arquivos relacionados ao trabalho final da disciplina "Int
 
 
 
+O arquivo "article.pdf" é o artigo escrito para apresentar e discutir a análise realizada, redigido como parte da avaliação final
+
+
+
 A pasta "scripts" possui os arquivos de códigos
 
 - main.py: arquivo que deve ser executado para realizar toda a análise do artigo produzido. Chama as funções contidas nos demais arquivos.

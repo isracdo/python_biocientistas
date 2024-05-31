@@ -34,7 +34,7 @@ A pasta "dados" contém arquivos .tsv gerados pelo script main.py
 
 
 
-A pasta "analisys" contém arquivos de imagem referentes às análises implementadas no script main.py
+A pasta "analysis" contém arquivos de imagem referentes às análises implementadas no script main.py
 
 - boxplot_trat.svg: boxplot das somas de reads por amostra, para os três tratamentos (tabelas)
 
